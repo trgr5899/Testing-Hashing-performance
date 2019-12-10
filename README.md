@@ -1,5 +1,4 @@
-# trgr5899
-Hashing Implementation and Analysis
+# Hashing Implementation and Analysis
 	Our class was tasked with creating hash tables for two completely different data sets.
   In doing this, chaining with linked lists, chaining with binary search trees, linear probing, and Cuckoo hashing, 
   which are various collision resolution methods, were used. After the hash tables were created, performance evaluations 
